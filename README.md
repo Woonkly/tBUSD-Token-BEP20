@@ -1,1 +1,7 @@
 # tBUSD-Token-BEP20
+
+
+Deploy in Binance Smart Chain - TESTNET
+
+
+https://testnet.bscscan.com/address/0x9ea010b3ab256d2ce5a9e7b9c7157e3f98db7acc
